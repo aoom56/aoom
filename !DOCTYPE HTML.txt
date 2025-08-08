@@ -109,12 +109,8 @@
 						<!-- Panel (Spotlight) -->
 							<section class="panel spotlight large left">
 								<div class="content span-5">
-									<h2 class="major">ลองดูคับ</h2>
-									<audio controls>  <source src="D:\ตูเอง\chicken.mp4"  type="audio/mpeg"></audio>
-<video width="320" height="240" controls autoplay muted>
-  <source src="D:\ตูเอง\vid.mp4" type="video/mp4">
-Your browser does not support the video tag.
-<img src="D:\ตูเอง\hi.jpg" alt="" width="104" height="140";>
+									<h2 class="major">Magna amet tempus</h2>
+									<p>Mauris a cursus velit. Nunc lacinia sollicitudin egestas bibendum, magna dui bibendum ex, sagittis commodo enim risus sed magna nulla. Vestibulum ut consequat velit. Curabitur vitae libero lorem. Quisque iaculis porttitor blandit. Nullam quis sagittis maximus. Sed vel nibh libero. Mauris et lorem pharetra massa lorem turpis congue pulvinar.</p>
 								</div>
 								<div class="image filtered tinted" data-position="top right">
 									<img src="images/pic03.jpg" alt="" />
@@ -142,13 +138,24 @@ Your browser does not support the video tag.
 								<div class="intro color2">
 									<h2 class="major">ประวัติคราวๆ</h2>
 									<p> ผมชื่อเล่นชื่อ อุ้ม ชื่อจริงชื่อ อนวัช บวรภิรธนา ผมเป็นน้องเล็กสุดของบ้าน ผม อายุ 17 ปี ผมสูงร้อย 180 หนัก 55 กก. ผมจบมาจากโรงเรียนเมตตาศึกษา ณ ปัจจุบันผมเรียนมหาวิทยาลัยเทคนิคเชียงใหม่ ขอจบไว้เพียงเท่านี้ครับขอบคุณมากครับ </p>
-									<img src="D:\ตูเอง\hi.jpg" alt="" width="104" height="140";>
+									<img src="หล่อมั้ย.jpg" alt="ตูเอง" width="104" height="142";>
 									<address>ที่อยู่
 									chiang mai:    chang phueak:
 									</address>
 
 								</div>
-		
+								<div class="inner columns aligned">
+									<div class="span-2-75">
+
+										<h3 class="major">ลองฟังดูคับ</h3>
+									<audio controls>
+  <source src="chicken.mp4"  type="audio/mpeg">
+</audio> 
+<br>
+<video width="320" height="240" controls autoplay muted>
+  <source src="vid.mp4" type="video/mp4">
+</video>
+
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>
